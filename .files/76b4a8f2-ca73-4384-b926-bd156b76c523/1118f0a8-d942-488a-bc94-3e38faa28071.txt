@@ -1,0 +1,20 @@
+required.
+Admin
+User
+Login
+Manage Doctor Details
+Manage patient Details
+Post Operation Schedule DetailsUser
+Project Evaluation metrics:
+Code: 
+Database: 
+Logging: 
+Deployment: 
+Solutions Design: Register
+Login
+View Doctor Details
+View surgical Information
+You are supposed to write a code in a modular fashion
+Safe: It can be used without causing harm.
+Testable: It can be tested at the code level.
+Maintainable: It can be maintained, even as your codebase grows.

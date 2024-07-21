@@ -1,0 +1,9 @@
+Portable: It works the same in every environment (operating system) 
+You have to maintain your code on GitHub.
+You have to keep your GitHub repo public so that anyone can check your code. 
+Proper readme ﬁle you have to maintain for any project development. 
+You should include basic workﬂow and execution of the entire project in the 
+readme ﬁle on GitHub 
+Follow the coding standards.
+You are supposed to use FireBase.
+Logging is a must for every action performed by your code, use the JavaScript

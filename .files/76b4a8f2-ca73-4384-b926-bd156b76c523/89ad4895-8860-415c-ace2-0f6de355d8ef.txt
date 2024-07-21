@@ -1,0 +1,6 @@
+You have to create a detailed project report and submit that document as per the 
+given sample. You have to submit a system architecture design in your wireframe document 
+and architecture document. 
+Try to optimize your solution on code level, architecture level, and mention all 
+of these things in your ﬁnal submission. 
+Mention your test cases for your project.

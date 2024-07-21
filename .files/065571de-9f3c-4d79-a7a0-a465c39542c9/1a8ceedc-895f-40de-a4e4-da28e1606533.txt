@@ -1,0 +1,10 @@
+or python logging library for this. 
+You can host your model in the cloud platform, edge devices, or maybe local, 
+but with a proper justiﬁcation of your system design. 
+You have to submit complete solution design strategies in LLD document System Architecture: 
+Optimization of solutions: 
+Submission requirements: 
+Project code:
+You have to submit your code to the GitHub repo and you have to share the repo 
+link at ﬁnal submission of your project. 
+Detail project report:

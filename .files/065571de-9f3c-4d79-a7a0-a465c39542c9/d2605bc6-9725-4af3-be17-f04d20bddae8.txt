@@ -1,0 +1,11 @@
+The type of anesthesia used and the name of the anesthesiologist.
+Medic (Include if there is an Assistant surgeon).
+Nurses that work in the operating room are involved in the procedure (If 
+possible).
+Pre- and post-operative events are tracked using this mechanism.
+Any surgical reports (patient surgery chart, operative reports – transcription) 
+should be attached.
+Remarks from the operating room doctors.
+Drugs, instruments, and materials that are unique to this situation are 
+required.
+Admin
